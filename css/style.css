@@ -282,7 +282,7 @@ section{
 
 .img-1{
     min-height: 700px;
-    background-image: url("./images/about.jpg");
+    background-image: url("../images/about.jpg");
     padding:20px 10px;
     position: relative;
     width: 100%;
@@ -359,7 +359,7 @@ section{
     padding-top: 15px;
 }
 .img-2{
-    background-image: url("./images/about-2.jpg");
+    background-image: url("../images/about-2.jpg");
     background-size:cover;
     height: 290px;
     margin-right: 20px;
@@ -522,7 +522,7 @@ svg{
 
 /* counts secion */
 .counts {
-    background: linear-gradient(rgba(0, 0, 0, 0.425), rgba(0, 0, 0, 0.425)), url("./images/stats-bg.jpg")  center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.425), rgba(0, 0, 0, 0.425)), url("../images/stats-bg.jpg")  center center;
     background-size: cover;
     padding: 100px 0;
     background-attachment: fixed;
@@ -710,19 +710,19 @@ svg{
 }
 .event-img-1{
     border: 1px solid rgb(190, 190, 190);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/events-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/events-1.jpg");
     max-width: 100%;
     min-height: 600px;}
 
 .event-img-2{
     border: 1px solid rgb(190, 190, 190);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/events-2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/events-2.jpg");
     max-width: 100%;
     min-height: 600px;}
 
 .event-img-3{
     border: 1px solid rgb(190, 190, 190);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/events-3.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/events-3.jpg");
     max-width: 100%;
     min-height: 600px;
 }
@@ -775,7 +775,7 @@ svg{
     height: auto;
     overflow: hidden;
     position: relative;
-    background-image: url("./images/team-shape.svg");
+    background-image: url("../images/team-shape.svg");
     z-index: 3;
 }
 .social-media{
@@ -856,7 +856,7 @@ svg{
     padding: 0px 0px;
 }
 .booking-img{
-    background-image: url(./images/reservation.jpg);
+    background-image: url("../images/reservation.jpg");
     min-height: 500px;
     margin-left: 0px;
     background-size: cover;
